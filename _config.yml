@@ -81,7 +81,7 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Hindi
       proficiency: Native
     - language2:
       name: English
@@ -105,3 +105,6 @@ author:
     - skill5:
       name: Java/Java EE
       percentage: 90%
+    - skill6:
+      name: PHP
+      percentage: 100%
